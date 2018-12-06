@@ -1,10 +1,3 @@
-/*
-    Name:       TestMeForPeirce.ino
-    Created:  12/5/2018 22:35:34
-    Author:     CHRISDESKTOP\cwand
-*/
-
-
 #include <EthernetUdp.h>
 #include <EthernetServer.h>
 #include <EthernetClient.h>
